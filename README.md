@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="left">Hey there, I'm Utkarsh Singh 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HBaseDevelopers&label=views&color=0e75b6&style=flat" alt="utkarsh singh@h8ase2020" /> </p>
 
-<!--
-**HBaseDevelopers/HBaseDevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.linkedin.com/in/utkarsh-singh-hbase/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sonali singh" height="30" width="40" /></a><a href="https://github.com/HBaseDevelopers/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Sonali-Learntoshine" height="30" width="40" /></a><a href="https://www.hackerrank.com/HBase_Skills" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Utkarsh singh@h8ase2020" height="30" width="40" /></a>
+  
+</p>
+- 💪🏼 Fun fact **copy, cut and paste are the most powerfull weapon of programmers.**
+- 🔭 I’m currently looking **for work as an intern in web development.**
+- 🌱 I’m currently learning **Django and fullStack development**
+- 📫 How to reach me: **singhutkars2721@outlook.com**
+- ⚡ I am a **Code Blooded Developer who is always keen to learn new things because learning never ends.**
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HBaseDevelopers&amp;theme=dark&amp;hide_langs_below=1" style="max-width:100%;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HBaseDevelopers&amp;show_icons=true&amp;theme=dracula&amp;line_height=27" style="max-width:100%;" alt="utkarsh singh@h8ase2020" /></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+
+
